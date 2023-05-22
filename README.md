@@ -1,4 +1,4 @@
-# Text Conversion
+# Text Converter
 
 This program is capable of converting text into various representations:
 
