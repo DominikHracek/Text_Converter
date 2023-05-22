@@ -13,7 +13,7 @@ This program is capable of converting text into various representations:
 
 Convert text to various representations.\
 --help
-or py text-conversion.py
+or py text-convertor.py
 
 ### Options
 
